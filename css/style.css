@@ -1,0 +1,13 @@
+#past{
+    background-image:url(../img/18572464.jpg);
+    filter: gray; /* IE6-9 */
+    filter: grayscale(1); /* Microsoft Edge and Firefox 35+ */
+    -webkit-filter: grayscale(1); /* Google Chrome, Safari 6+ & Opera 15+ */
+}
+
+.background{
+    background-repeat: no-repeat; 
+    background-size: 100% auto; 
+    overflow:auto; 
+    height:1000px;
+}
